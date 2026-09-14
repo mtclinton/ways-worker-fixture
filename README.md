@@ -1,2 +1,3 @@
 # ways-worker-fixture
-Tiny Worker fixture for ways preview-deploy dogfood. Forced name only.
+
+Hello Worker for ways preview-deploy. The `name` in wrangler.jsonc must never be used as-is.
